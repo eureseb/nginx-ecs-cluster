@@ -1,4 +1,4 @@
-# Terraform Project for AWS ECS Cluster - Fargate instance type
+# Terraform Project for AWS ECS Cluster - Fargate instance
 
 ## Introduction
 
